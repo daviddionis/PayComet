@@ -1,0 +1,14 @@
+{
+  "name": "paycomet4node.js",
+  "version": "0.0.1",
+  "description": "A module to implement easily the payment system PayComet (Banc Sabadell) with Node.JS",
+  "main": "paycomet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Dionis Soler",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
